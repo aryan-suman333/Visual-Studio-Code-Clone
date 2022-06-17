@@ -1,0 +1,42 @@
+.secr2{
+    background-color: #010409;
+    width: 100%;
+}
+.nav2{
+    position: sticky;
+    width: 12vw;
+    font-size: 12px;
+    color: rgb(163, 163, 163);
+    height: 4.3vh;
+    border-top: 2px solid #f78166;
+    border-right: 1px solid grey;
+}
+.nav2 img{
+    cursor: pointer;
+    padding: 0 0.3vw 0 1vw;
+    height: 2vh;
+}
+.space4{
+    width: 5vw;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    height: 90.7vh;
+    overflow: auto;
+}
+.content img{
+    width: 100%;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-track{
+    background: #313131; 
+}
+::-webkit-scrollbar-thumb{
+    background: #888; 
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #555; 
+}

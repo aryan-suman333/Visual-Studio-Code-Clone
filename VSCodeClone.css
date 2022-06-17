@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.invert7{
+    filter: invert(0.7);
+}
+.invert1{
+    filter: invert(1);
+}
+.bg0c1{
+    background-color: #0c1016;
+}
+.disflex{
+    display: flex;
+}
+.alignc{
+    align-items: center;
+}
+.fwb{
+    font-weight: bold;
+}
+.cpointer:hover{
+    cursor: pointer;
+}
+hr{
+    height: 1px;
+    background-color: grey;
+    border: none;
+}
+.navbar{
+    color: rgb(163, 163, 163);
+    font-size: 13px;
+}
+.navbar img{
+    padding: 8px;
+    height: 2.27vh;
+}
+.navbar li{
+    list-style: none;
+    padding: 8px;
+}
+.navbar li:hover{
+    cursor: default;
+    background-color: #1a232e;
+}
+.navcenter{
+    width: 100%;
+    padding: 8px 16.3vw;
+}
+.navr img{
+    padding: 8px 14px;
+}
+.navr img:hover{
+    background-color: #e5dcd1;
+}
+.secl{
+    flex-direction: column;
+    border-right: 1px solid grey;
+}
+.secl img{
+    height: 3.36vh;
+    padding: 10px;
+}
+.secl img:hover{
+    cursor: pointer;
+    filter: invert(1);
+}
+.img1{
+    border-left: 2px solid #087e99;
+}
+.space1{
+    height: 53vh;
+}
+.secc{
+    width: 20%;
+    color: white;
+    background-color: #010409;
+    font-size: 12px;
+    border-right: 1px solid grey;
+}
+.heading1{
+    padding: 8px 15px;
+}
+.space2{
+    width: 70%;
+}
+.heading2{
+    padding: 0 2px 3px 2px;
+}
+.mainsecc{
+    height: 83vh;
+}
+.mainsecc img{
+    height: 16px;
+}
+.mainsecc1{
+    padding: 1.8px;
+}
+.mainsecc2{
+    padding: 3px 0px 3px 12px;
+}
+.mainsecc2:hover{
+    background-color: #0c1015;
+}
+.mainsecc3{
+    padding: 2px 0px 2px 28px;
+}
+.mainsecc3:hover{
+    background-color: #0c1015;
+}
+.pad{
+    padding: 0 4px 0 3px;
+}
+.footer{
+    padding: 1.5px;
+}
+.secr{
+    width: 100%;
+    padding-top: 55vh;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+.secr img{
+    position: absolute;
+    top: 25vh;
+    left: 50vw;
+    height: 30vh;
+    width: 30vh;
+}
+.lsecr{
+    width: 49%;
+    text-align: right;
+}
+.space3{
+    width: 1vw;
+}
+.rsecr{
+    text-align: left;
+}
